@@ -914,7 +914,17 @@ Issues and pull requests are welcome. Before opening a PR:
 
 ## License
 
-Released under the MIT License. See [LICENSE](LICENSE) for the full text.
+CROW is released under the **CROW Attribution License, Version 1.0**.
+
+You may use, modify, and distribute this software freely, including for
+commercial and public deployments, provided that:
+
+- the original project name is credited,
+- the license text is preserved,
+- any public or commercial deployment displays visible attribution.
+
+See [LICENSE](LICENSE) for the full text and [NOTICE](NOTICE) for the
+attribution statement.
 
 ---
 
