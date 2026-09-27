@@ -12,6 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)](#compatibility)
 [![Interface](https://img.shields.io/badge/Interface-GUI%20%7C%20TUI%20%7C%20CLI-blue)](#interfaces)
+[![License: CROW Attribution 1.0](https://img.shields.io/badge/License-CROW%20Attribution%201.0-blue.svg)](LICENSE.md)
 
 </div>
 
