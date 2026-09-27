@@ -1,0 +1,61 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---------- Virtual environments ----------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------- IDE / Editor ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- App data (PERSONAL) ----------
+# Databases
+contacts.db
+contacts.db-*
+contacts.db-wal
+contacts.db-shm
+identity.db
+identity.db-*
+identity.db-wal
+identity.db-shm
+telegram.db
+telegram.db-*
+telegram.db-wal
+telegram.db-shm
+
+# Vault (encrypted databases)
+vault/
+*.enc
+key
+
+# Attachments / images
+attachments/
+
+# Backups and reports
+backups/
+reports/
+
+# Raw input data
+tempinput.json
+
+# ---------- Logs ----------
+*.log
