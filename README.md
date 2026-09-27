@@ -927,6 +927,18 @@ See [LICENSE](LICENSE) for the full text and [NOTICE](NOTICE) for the
 attribution statement.
 
 ---
+## License Summary
+
+**CROW Attribution License 1.0** — see [LICENSE.md](LICENSE.md) for the full text.
+
+| | |
+|---|---|
+| **Permitted** | Personal use, Educational use, Modification, Distribution, Private use, Commercial use, Public deployment |
+| **Required** | Attribution (project name + license reference) in any public or commercial deployment; preservation of copyright notices; license propagation to derivative works |
+| **Forbidden** | Using the "CROW" name as your own trademark; implying endorsement by the original authors |
+| **Not provided** | Any warranty; any liability for damages, data loss, or misuse |
+| **User responsibility** | Legality of collected data; compliance with local law; security of passphrase and backups |
+---
 
 <div align="center">
 
