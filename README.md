@@ -925,4 +925,3 @@ Released under the MIT License. See [LICENSE](LICENSE) for the full text.
 A local workspace for people who take their data seriously.
 
 </div>
-```
