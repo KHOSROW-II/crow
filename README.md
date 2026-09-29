@@ -924,7 +924,7 @@ commercial and public deployments, provided that:
 - the license text is preserved,
 - any public or commercial deployment displays visible attribution.
 
-See [LICENSE](LICENSE) for the full text and [NOTICE](NOTICE) for the
+See [LICENSE](LICENSE.md) for the full text and [NOTICE](NOTICE) for the
 attribution statement.
 
 ---
